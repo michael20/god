@@ -6,7 +6,8 @@ gitTest::gitTest(QWidget *parent) :
     ui(new Ui::gitTest)
 {
     ui->setupUi(this);
-    this->setWindowTitle("hello");
+    this->setWindowTitle("helloWorld");
+
 }
 
 gitTest::~gitTest()
